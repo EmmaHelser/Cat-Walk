@@ -43,7 +43,7 @@ class App extends React.Component {
   render () {
     return (
       <div className={style.productPage}>
-        <ProductOverview />
+        <ProductOverview product={this.state.currentProduct}/>
         <Related currentProduct={this.state.currentProduct} cardClick={this.cardClick}/>
         <QuestionsAndAnswers product_id={25167}/>
         <RatingsAndReviews product_id={25167}/>
