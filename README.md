@@ -1,4 +1,4 @@
-# hr-sfo135-cat-walk
+# Cat Walk
 A team project by Brandon, Emma, Rose, and Susan
 
 1. run npm install to install all of the dependencies
