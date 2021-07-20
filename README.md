@@ -7,8 +7,8 @@ The product page for an existing ecommerce website.
 - [Dependencies](#Dependencies)
 - [Installation](#Installation)
 - [Running](#Running)
+- [Usage](#Usage)
 - [Authors](#Authors)
-- 
 
 ## Dependencies
 
