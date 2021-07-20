@@ -60,7 +60,7 @@ Ratings and Reviews
 
 ## Authors
 
-- Susan Ke
 - Emma Helser
+- Susan Ke
 - Brandon Parker
 - Rose Laguana
